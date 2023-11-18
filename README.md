@@ -27,8 +27,3 @@
 #### :blue_heart: Study
  
   <br/>    
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIYEON&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonsii&color=dark)](https://velog.io/@yeonsi93) 
-</div>
