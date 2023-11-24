@@ -1,24 +1,24 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=dracula&hide="/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yeonsii&show_icons=true&theme=dracula&hide="/>
 
 <div align="center">
   
-### 🐣 SIYEON 🐥
+### 🐶 SIYEON 🐾
 
-<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+<a href="https://github.com/yeonsii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonsii&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
 ##
 
-🍏 **seondal.log** 🍏 https://velog.io/@seondal
+🍊 **velog** 🍊 &nbsp; https://velog.io/@yeonsi93 
 
-🍊 **Seondalgorithm** 🍊 https://whkakrkr.tistory.com
+🥑 **notion** 🥑 &nbsp; https://notion.so/yeonsii 
+
+
 </div>
 </br>
 
 ---
 
-</br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsii&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
 
 <div align="left">
 
