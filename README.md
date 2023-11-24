@@ -8,10 +8,10 @@
 <a href="https://github.com/yeonsii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonsii&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
 ##
 
-🍊 **VELOG** 🍊 &nbsp; https://velog.io/@yeonsi93 
-
-🥑 **NOTION** 🥑 &nbsp; https://notion.so/yeonsii 
-
+### 🐶 CONTACK 🐾
+<a href="http://velog.io/yeonsi93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@yeonsi93"/></a> &nbsp;
+&nbsp;  <a href="http://notion.so/yeonsii" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://notion.so/yeonsii"/></a>
+&nbsp;  <a href="http://kimhe408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://kimhe408@gmail.com"/></a>
 
 </div>
 </br>
