@@ -1,5 +1,4 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yeonsii&show_icons=true&theme=dracula&hide="/>
 
 <div align="center">
   
