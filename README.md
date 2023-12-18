@@ -19,7 +19,7 @@
 
 <div align="left">
   
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonsi93">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhe408">
 
 </div>
 
