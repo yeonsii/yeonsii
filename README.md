@@ -8,7 +8,7 @@
 ##
 
 ### 🐰 CONTACK ☘️
-<a href="http://velog.io/yeonsi93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@yeonsi93"/></a> &nbsp;
+<a href="https://yuze-in-full-bloom.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://yuze-in-full-bloom.tistory.com/"/></a> &nbsp;
 &nbsp;  <a href="http://notion.so/yeonsii" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://notion.so/yeonsii"/></a>
 &nbsp;  <a href="mailto:kimhe408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhe408@gmail.com"/></a>
 
