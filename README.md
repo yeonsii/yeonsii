@@ -4,7 +4,6 @@
 ##### CONTACT &nbsp; ME &nbsp; HERE &nbsp; !
 <a href="https://velog.io/@yeonsi93/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@yeonsi93/posts"/></a> &nbsp;
 &nbsp;  <a href="https://yeonsii.notion.site/238c418f5a6b4668b09ccc95e1e7e778" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://yeonsii.notion.site/238c418f5a6b4668b09ccc95e1e7e778"/></a>
-&nbsp;  <a href="mailto:kimhe408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhe408@gmail.com"/></a>
 
 </div>  
 </br>
